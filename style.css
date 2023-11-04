@@ -1,0 +1,17 @@
+.con {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+@media (max-width: 768px) {
+  .con {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
